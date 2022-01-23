@@ -94,7 +94,7 @@ function reLoadM(cartThings){
    var total = cartLength.reduce(function (a,b) {
        return a+Number(b.price)
    },0)
-    document.querySelector("#totalPrice").innerHTML=` $${total}`;
+    document.querySelector("#totalPrice").innerHTML=` $${total.toFixed(2)}`;
 
 
 }
