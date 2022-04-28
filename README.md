@@ -1,6 +1,10 @@
 #### SkinStore.com_web_clone
 This is clone of SkinStore.com, where we have used HTML, CSS and Javascript to acheive this.
 In this project we have tried to clone the “SkinStore” website. We had build up all our efforts to do our best in this project. As, the Masai School's Mentorship  was specifically to build up our skills and we also accordingly implemented all that teachings in our project to look it at its best.
+
+<br/>
+
+
 ![skinstore](https://user-images.githubusercontent.com/66964293/165706636-c182a571-3a0a-48a1-a080-bd3843e67831.png)
 
 ### Live Site(https://skinstore.netlify.app/)
@@ -16,12 +20,16 @@ In this project we have tried to clone the “SkinStore” website. We had build
 https://drive.google.com/file/d/1efITwbxQ6m7tjnCt0pIycm9ZcfSGocyI/view?usp=sharing
  
 # Snapshots
+![image](https://user-images.githubusercontent.com/66964293/165708790-455cc968-3555-48a9-ae42-869d14476cdb.png)
 
-![705ac20f-2532-440b-9d71-6e1d41105768](https://user-images.githubusercontent.com/67849097/146674897-2cfd2fff-814a-46dc-9394-dc208948dbaf.jpg)
-![Screenshot 2021-12-19 175046](https://user-images.githubusercontent.com/67849097/146674905-7140d13c-8a7c-41c0-b19b-dba21e09c282.png)
-![49ed311d-48d0-473a-b350-ae0439c01d61](https://user-images.githubusercontent.com/67849097/146674910-ca9d9f02-b7bd-40dc-a0e6-89e9046ee47c.jpg)
-![e25bcc85-9c7f-4f02-b3d6-4fcf2a1d587c](https://user-images.githubusercontent.com/67849097/146674914-23d5d099-1475-4301-96dc-07d5974d57d5.jpg)
-![2cc2ae15-fc76-4b6e-a1b2-2e2be7e86027](https://user-images.githubusercontent.com/67849097/146674915-36c7ec06-b4e2-44da-b2fa-0429df71b429.jpg)
+![image](https://user-images.githubusercontent.com/66964293/165708602-9b0419d9-2157-4e0d-9e72-13ba65f134e0.png)
+![image](https://user-images.githubusercontent.com/66964293/165708910-c6db2eaf-dd3f-4cc4-895c-dfe0f4d1eb37.png)
+![image](https://user-images.githubusercontent.com/66964293/165709003-5cf7551b-1f92-406f-8b7a-31c9967a8aa6.png)
+![image](https://user-images.githubusercontent.com/66964293/165709256-5364d178-528b-4845-af49-2b28d7cecfc0.png)
+![image](https://user-images.githubusercontent.com/66964293/165709437-6a83cd74-e5f7-4dc2-a2d7-e7cd00fa9262.png)
+![image](https://user-images.githubusercontent.com/66964293/165709551-5047372b-2d78-4490-9bde-9650bb1c6064.png)
+![image](https://user-images.githubusercontent.com/66964293/165709840-512e124b-2685-47b7-836e-38c80803ad01.png)
+
 
 
 
