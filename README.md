@@ -1,19 +1,19 @@
 #### SkinStore.com_web_clone
 This is clone of SkinStore.com, where we have used HTML, CSS and Javascript to acheive this.
 In this project we have tried to clone the “SkinStore” website. We had build up all our efforts to do our best in this project. As, the Masai School's Mentorship  was specifically to build up our skills and we also accordingly implemented all that teachings in our project to look it at its best.
-
-![logo purplle](https://user-images.githubusercontent.com/67849097/146675002-714b6f21-2573-43f0-83f0-3449230aa5c0.png)
+![skinstore](https://user-images.githubusercontent.com/66964293/165706636-c182a571-3a0a-48a1-a080-bd3843e67831.png)
 
 ### Live Site(https://skinstore.netlify.app/)
 
+
 # SkinStore-Website-Clone
-#### About Purplle
->  SkinStore is an online store selling cosmetics, fragrances, skin, and hair care products. It gives an online space to beauty and wellness needs that showcases some of the beauty brands and products. Purplle aims to take shopping experience to a different level. Purplle was founded in 2011 and is headquartered in Mumbai, Maharashtra, India.
+#### About SkinStore
+>  SkinStore is an online store selling cosmetics, fragrances, skin, and hair care products. It gives an online space to beauty and wellness needs that showcases some of the beauty brands and products. SkinStore aims to take shopping experience to a different level. 
 >  
 # Video link:
  #### we have shared a demo presentation of this project "SkinStore-clone".
  
- https://drive.google.com/file/d/13ufhEd5OfBRXy3yzIhuHmmUkp4STP6uC/view?usp=sharing
+https://drive.google.com/file/d/1efITwbxQ6m7tjnCt0pIycm9ZcfSGocyI/view?usp=sharing
  
 # Snapshots
 
