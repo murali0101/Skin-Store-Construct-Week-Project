@@ -13,7 +13,11 @@ In this project we have tried to clone the “SkinStore” website. We had build
 # SkinStore-Website-Clone
 #### About SkinStore
 >  SkinStore is an online store selling cosmetics, fragrances, skin, and hair care products. It gives an online space to beauty and wellness needs that showcases some of the beauty brands and products. SkinStore aims to take shopping experience to a different level. 
->  
+ 
+<br/>
+          ![sinkstore](https://user-images.githubusercontent.com/66964293/165974273-4587e89c-a5da-4ab0-bd87-88b0fff015a0.gif)
+          
+
 # Video link:
  #### we have shared a demo presentation of this project "SkinStore-clone".
  
