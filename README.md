@@ -9,6 +9,7 @@ In this project we have tried to clone the “SkinStore” website. We had build
 
 ### Live Site(https://skinstore.netlify.app/)
 
+### Blog link https://medium.com/@muralimv0101/cloning-of-skinstorewebsite-2300db02332a
 
 # SkinStore-Website-Clone
 #### About SkinStore
